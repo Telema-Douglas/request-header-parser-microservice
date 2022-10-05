@@ -1,3 +1,17 @@
 # Request Header Parser Microservice
 
-This is the boilerplate for the Request Header Parser Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/request-header-parser-microservice
+This is a microservice which parses the request header to obtain some information about the client making a request to the service
+
+## Installation
+
+Use the npm package manager to install
+
+```bash
+npm install
+```
+
+## Usage
+
+```bash
+npm run start
+```
